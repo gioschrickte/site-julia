@@ -86,7 +86,7 @@ main > h2 {
     margin-top: 0;
     color: #8C2F39;
     background-color: #FED0BB;
-    width: 25%;
+    width: 150px;
     border-radius: 10px 0px;
     box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.24);
 }
