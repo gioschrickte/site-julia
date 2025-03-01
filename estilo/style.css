@@ -97,7 +97,7 @@ main p{
 
 #imagens {
     display: flex;
-    justify-content: space-between; /* Separa as imagens */
+    justify-content: center; /* Separa as imagens */
     width: 100%; /* Faz a div ocupar toda a largura disponível */
 }
 
@@ -106,9 +106,8 @@ main p{
     height: auto; /* Mantém a proporção da imagem */
     padding: 10px;
     border: 2px outset rgba(0, 0, 0, 0.521);
-    border-radius: 10px;
     background-color: #f7dfd4;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 20px 10px 0px;
 }
 
 footer{
