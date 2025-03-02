@@ -24,7 +24,6 @@ header {
     max-width: 1100px;
     margin: auto;
     padding: 10px;
-    border-radius: 10px 10px 0px 0px;
     background-image: linear-gradient(to bottom, #FCB9B2, #B23A48);
     text-align: center;
 }
