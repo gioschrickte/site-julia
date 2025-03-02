@@ -83,6 +83,7 @@ main{
     padding: 10px;
     background-color: white;
     text-indent: 10px;
+    box-shadow: inset 0px 3px 2px rgba(0, 0, 0, 0.24);
 }
 
 main > h2 {
@@ -98,6 +99,7 @@ main > h2 {
 
 main p{
     margin: 5px 0px 10px 5px;
+    line-height: 1.6em;
 }
 
 #imagens {
@@ -111,7 +113,7 @@ main p{
 #imagens img {
     max-width: 30%; /* As imagens vão ocupar até 48% do espaço, para garantir que fiquem separadas */
     height: auto; /* Mantém a proporção da imagem */
-    padding: 10px;
+    padding: 5px;
     border: 5px double rgb(102, 48, 4);
     background-color: #ffabb5;
     margin: 10px 20px 10px 0px;
