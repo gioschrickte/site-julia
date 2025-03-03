@@ -16,6 +16,7 @@ body {
     margin: 0px;
     background-image: url(../imagens/wallpaper004.jpg) ;
     background-size: cover;
+    background-position: top center;
     font-family: var(--fontepadrao);
 }
 
